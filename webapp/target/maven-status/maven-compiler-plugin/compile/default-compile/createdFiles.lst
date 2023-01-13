@@ -1,0 +1,14 @@
+dto\Compte.class
+server\Application.class
+dto\NouveauClient.class
+database\Queries.class
+dto\Compte$CompteBuilder.class
+dto\ActiviteRetourDTO$ActiviteRetourDTOBuilder.class
+dto\EffectuerTransactionDTO.class
+dto\Transaction$TransactionBuilder.class
+services\BoredService.class
+server\AllServices.class
+dto\Transaction.class
+database\DbController.class
+dto\ActiviteRetourDTO.class
+services\BankService.class
